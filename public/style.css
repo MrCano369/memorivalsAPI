@@ -1,0 +1,349 @@
+html {
+  overflow: auto;
+  overflow-x: hidden;
+}
+
+.decksContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.deck {
+  cursor: pointer;
+  margin: 10px;
+  width: 200px;
+  position: relative;
+}
+.deck:hover {
+  top: -5px;
+}
+.deck svg {
+  display: block;
+}
+.deck div {
+  width: 100%;
+  height: 100%;
+  padding-left: 10px;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.deck div p {
+  color: white;
+}
+.deck .title {
+  padding-top: 40px;
+}
+.deck .subtitle {
+  padding-bottom: 20px;
+}
+
+.cardsContainer {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  margin: 40px 0px;
+}
+
+.flashCard {
+  width: 300px;
+  height: 180px;
+  transform-style: preserve-3d;
+  transition: 0.6s;
+  scroll-snap-align: center;
+  /* border: 8px solid rgb(214, 84, 210); */
+  /* border: 10px solid;
+  border-image-slice: 40%;
+  border-width: 5px;
+  border-image-source: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(214, 84, 210, 1) 0%,
+    rgba(199, 0, 255, 1) 97%
+  );
+  border-radius: 20px; */
+
+  /* border: solid 8px transparent;
+  border-radius: 20px;
+  background-image: linear-gradient(transparent, transparent),
+    linear-gradient(to right, #c64ec2, #881fa6);
+  background-origin: border-box;
+  box-shadow: 10px 8px 23px 0px gray inset; */
+  /* box-shadow: 0px 2px 2px gray; */
+}
+
+.flashCard div {
+  width: 100%;
+  height: 100%;
+  padding: 5px;
+  border-radius: 10px;
+  background-color: white;
+  user-select: none;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  backface-visibility: hidden;
+  text-align: center;
+
+  border: 6px outset #00d1b2;
+  /* border-radius: 10px; */
+  /* box-shadow: 10px 8px 23px 0px gray inset; */
+  /* border-image: url(images/border.svg) 20; */
+  /* white-space: nowrap; */
+  /* overflow: hidden; */
+  /* text-overflow: ellipsis; */
+}
+.flashCard div:last-child {
+  transform: rotateY(180deg);
+}
+
+.flipped {
+  transform: rotateY(180deg);
+}
+
+.modal-card {
+  border-radius: 6px;
+  max-width: 500px !important;
+}
+
+.addCardForm {
+  max-width: 500px;
+  background-color: white;
+  /* margin: auto; */
+  /* border: 1px solid; */
+  /* box-shadow: 0px -1px 5px gray; */
+  box-shadow: 0 -0.5em 1em -0.125em rgb(10 10 10 / 10%),
+    0 0 0 1px rgb(10 10 10 / 2%);
+  border-radius: 10px 10px 0px 0px;
+  padding: 5px 10px;
+  position: sticky;
+  bottom: 0px;
+  display: flex;
+  gap: 10px;
+  align-items: flex-end;
+  margin: 0.5rem 0px;
+}
+.addCardForm .field {
+  margin-bottom: 0px;
+}
+
+.roomsContainer {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.room {
+  border: 5px outset #af7ac5;
+  border-radius: 10px;
+  padding: 10px;
+  width: 220px;
+  cursor: pointer;
+  white-space: nowrap;
+  position: relative;
+}
+.room:hover {
+  top: -5px;
+}
+.room p {
+  line-height: normal;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.playersContainer {
+  margin: auto;
+  max-width: 500px;
+  padding: 20px;
+}
+.waitingPlayer {
+  display: flex;
+  justify-content: space-between;
+}
+.waitingPlayer div {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.waitingPlayer div img {
+  border-radius: 50%;
+}
+
+.board {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 950px;
+  margin: auto;
+}
+.cardMemo {
+  min-width: 180px;
+  height: 100px;
+  margin: 5px;
+  transform-style: preserve-3d;
+  transition: 0.6s;
+}
+.cardMemo div {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  user-select: none;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  backface-visibility: hidden;
+}
+.cardMemo div:first-child {
+  transform: rotateY(180deg);
+  text-align: center;
+}
+.cardMemo div:last-child {
+  cursor: pointer;
+  /* background-image: url("images/card.jpg"); */
+  /* background-size: contain; */
+  /* background-size: cover; */
+  /* background-position: center; */
+  background-color: blueviolet;
+}
+.hide div {
+  display: none;
+}
+.game {
+  display: flex;
+  align-items: center;
+}
+
+.player {
+  min-width: 150px;
+}
+.player img {
+  height: 50px;
+}
+
+.clock {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 5px solid #3e8ed0;
+  margin: 20px auto;
+}
+
+.myAvatar {
+  width: 150px;
+  border-radius: 50%;
+  box-shadow: 0px 2px 3px 0px gray;
+}
+.avatarsContainer img {
+  width: 75px;
+  border-radius: 50%;
+  margin: 1px;
+  cursor: pointer;
+}
+.avatarsContainer img:hover {
+  box-shadow: 0px 1px 2px gray;
+}
+
+f {
+  text-align: center;
+  position: relative;
+}
+h {
+  position: absolute;
+  line-height: 0px;
+  font-size: 25%;
+  width: 100%;
+  white-space: nowrap;
+  font-weight: bold;
+  transform: scale(1.4);
+  user-select: none;
+}
+
+table {
+  table-layout: fixed;
+  /* margin: 0px !important; */
+  /* margin: auto;
+  padding: 0px;
+  max-width: 800px; */
+  /* height: 300px;
+  overflow-y: auto; */
+}
+
+.tr td {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.practiceContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.practiceContainer img {
+  height: 30px;
+}
+
+.carrusel {
+  position: relative;
+  max-width: 400px;
+  margin: auto;
+  /* border: 1px solid; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  user-select: none;
+}
+.carrusel span {
+  position: absolute;
+  padding: 10px;
+  cursor: pointer;
+}
+.leftArrow {
+  left: 0px;
+}
+.rightArrow {
+  right: 0px;
+}
+
+.animated {
+  --animate-duration: 0.3s;
+}
+
+table {
+  width: 100%;
+}
+tr:nth-child(even) {
+  background: #eee;
+}
+tbody tr th:first-child {
+  padding: 10px;
+}
+tbody tr td:last-child {
+  padding: 5px 0px;
+}
+thead tr th:first-child {
+  width: 40px;
+}
+thead tr th:last-child {
+  width: 25px;
+}
+
+.navbar {
+  position: sticky;
+  top: 0px;
+}
+
+.layout {
+  padding-top: 20px;
+}
+
+header {
+  padding: 0px 10px;
+}

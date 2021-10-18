@@ -1,0 +1,43 @@
+_Si exporto el objeto memo de memo.js con module.exports para iniciarlo en 
+server.js y luego poder usarlo ya iniciado en la api con require, no se puede, 
+parece que next guarda el require.cache de forma extraña y borra mi memo por lo 
+que vuelve a ejecutar el modulo con un memo no iniciado._
+
+>en server.js se inicia el obj
+const obj = require("./lib/pinga");
+obj.add(3);
+obj.addProps();
+console.log(obj);
+
+>pinga.js
+class OBJ {
+  constructor(v) {
+    this.items = [v];
+  }
+  add(e) {
+    this.items.push(e);
+  }
+  addProps() {
+    this.pinga = "jaja";
+    this.pene = "jojo";
+  }
+}
+module.exports = new OBJ(7);
+
+>lib/decks.js que se ejecuta como un getServerSideProps en 
+pages/decks/index obtengo obj no iniciado
+const obj = require("./pinga");
+async function getDecks({ req }) {
+  console.log(obj); //vacio
+...
+
+(Soluciones)
+funciona cuando pongo pinga.js dentro de node_modules/pinga/index
+y lo llamo como require('pinga')
+
+Si paso io y app al modulo memo.js y que el lo inicie y haga el 
+app.post('createRoom)
+
+Si en server.js paso req, res y memo a todas las solicitudes
+
+dejar de usar next alv y pasar a react + express

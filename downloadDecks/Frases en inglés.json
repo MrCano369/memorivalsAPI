@@ -1,0 +1,2881 @@
+[
+  { "front": "She has a new hat", "back": "Ella tiene un sombrero nuevo" },
+  { "front": "Your son is an able man", "back": "Su hijo es un hombre hábil" },
+  {
+    "front": "This fruit has an acid taste",
+    "back": "Esta fruta tiene un sabor ácido"
+  },
+  {
+    "front": "Send him the account every month",
+    "back": "Envíele la cuenta cada mes"
+  },
+  {
+    "front": "This is a book about the history of",
+    "back": "Chile Este es un libro acerca de la historia de Chile"
+  },
+  {
+    "front": "We will go across these fields",
+    "back": "Nosotros iremos a través de estos campos"
+  },
+  {
+    "front": "Do a kind act every day",
+    "back": "Haga un acto bondadoso cada día"
+  },
+  { "front": "This addition is wrong", "back": "Esta suma está equivocada" },
+  {
+    "front": "Make an adjustment to this engine",
+    "back": "Haga un arreglo a esta máquina"
+  },
+  {
+    "front": "I have put an advertisement in the paper",
+    "back": "Yo he puesto un aviso en el diario"
+  },
+  {
+    "front": "We will go after meal",
+    "back": "Nosotros iremos después de la comida"
+  },
+  {
+    "front": "I will come, again, tomorrow",
+    "back": "Yo vendré, de nuevo, mañana"
+  },
+  {
+    "front": "He did that against my desires",
+    "back": "El hizo eso contra mis deseos"
+  },
+  {
+    "front": "We have made an agreement",
+    "back": "Nosotros hemos hecho un contrato"
+  },
+  {
+    "front": "This morning the air was very cold",
+    "back": "Esta mañana el aire estaba muy frío"
+  },
+  { "front": "I have done all my work", "back": "Yo he hecho todo mi trabajo" },
+  {
+    "front": "He gave me almost all his money",
+    "back": "El me dio casi todo su dinero"
+  },
+  {
+    "front": "My house is among those trees",
+    "back": "Mi casa está entre esos árboles"
+  },
+  {
+    "front": "What is the amount of his debt? ¿",
+    "back": "Cuál es la cantidad de su deuda?"
+  },
+  {
+    "front": "This is a great amusement for me",
+    "back": "Esto es un gran entretenimiento para mí"
+  },
+  { "front": "He is old and ill", "back": "El está viejo y enfermo" },
+  {
+    "front": "A right angle has ninety degrees",
+    "back": "Un ángulo recto tiene noventa grados"
+  },
+  {
+    "front": "I am angry whit your brother",
+    "back": "Yo estoy enojado con su hermano"
+  },
+  {
+    "front": "He has all his animals on our farm",
+    "back": "El tiene todos sus animales en nuestra finca"
+  },
+  {
+    "front": "What was his answer to that question? ¿",
+    "back": "Cual fue su respuesta a esa pregunta?"
+  },
+  {
+    "front": "There are ants in your garden",
+    "back": "Hay hormigas en su jardín"
+  },
+  {
+    "front": "Have you any news from your father? ¿",
+    "back": "Tiene usted alguna noticia de su padre?"
+  },
+  {
+    "front": "This new apparatus is a great invention",
+    "back": "Este nuevo aparato es un gran invento"
+  },
+  {
+    "front": "There are six apples on that tree",
+    "back": "Hay seis manzanas en ese árbol"
+  },
+  {
+    "front": "He gave his approval to my idea",
+    "back": "El dio su aprobación a mi idea"
+  },
+  {
+    "front": "There is only one arch in that bridge",
+    "back": "Hay solamente un arco en ese puente"
+  },
+  {
+    "front": "He had an argument whit his brother",
+    "back": "El tuvo una discusión con su hermano"
+  },
+  { "front": "His arms are very strong", "back": "Sus brazos son muy fuertes" },
+  {
+    "front": "Tomorrow the army will be in this town",
+    "back": "Mañana el ejército estará en esta cuidad"
+  },
+  {
+    "front": "There is art in this picture",
+    "back": "Hay arte en este cuadro"
+  },
+  { "front": "I am as old as you", "back": "Yo soy tan viejo como usted" },
+  {
+    "front": "I will be at my office tomorrow",
+    "back": "Yo estaré en mi oficina mañana"
+  },
+  {
+    "front": "We saw the attack from the mountain",
+    "back": "Nosotros vimos el ataque desde el cerro"
+  },
+  {
+    "front": "I will make a new attempt tomorrow",
+    "back": "Yo haré una nueva prueba mañana"
+  },
+  {
+    "front": "Put more attention in your work",
+    "back": "Ponga más atención en su trabajo"
+  },
+  {
+    "front": "There is attraction in a beautiful face",
+    "back": "Hay atracción en una hermosa cara"
+  },
+  {
+    "front": "He has great authority in the government",
+    "back": "El tiene gran autoridad en el gobierno"
+  },
+  {
+    "front": "This machine has an automatic brake",
+    "back": "Esta máquina tiene un freno automático"
+  },
+  {
+    "front": "I was awake all the night",
+    "back": "Yo estuve despierto toda la noche"
+  },
+  { "front": "Your baby seems ill", "back": "Su nene parece enfermo" },
+  {
+    "front": "That is the back of the house",
+    "back": "Esta es la parte posterior de la casa"
+  },
+  { "front": "I have a bad memory", "back": "Yo tengo una mala memoria" },
+  {
+    "front": "This bag in full of money",
+    "back": "Esta bolsa está llena de dinero"
+  },
+  {
+    "front": "We had a good balance this year",
+    "back": "Nosotros tuvimos un buen balance este año"
+  },
+  { "front": "Give this ball to your son", "back": "Dé esta pelota a su hijo" },
+  {
+    "front": "This is a band from my town",
+    "back": "Esta es una banda de mi ciudad"
+  },
+  {
+    "front": "This is the base of my system",
+    "back": "Esta es la base de mi sistema"
+  },
+  { "front": "Give me a basin", "back": "Deme un lavatorio (palangana)" },
+  {
+    "front": "He has a basket for eggs",
+    "back": "El tiene un canasto de huevos"
+  },
+  {
+    "front": "I take a bath every morning",
+    "back": "Yo tomo un baño cada mañana"
+  },
+  {
+    "front": "I will be here all this morning",
+    "back": "Yo estaré aquí toda la mañana"
+  },
+  {
+    "front": "The flowers are beautiful in spring",
+    "back": "Las flores son hermosas en primavera"
+  },
+  {
+    "front": "He went to",
+    "back": "Cuba because his son was ill El fue a Cuba porque su hijo estaba enfermo"
+  },
+  {
+    "front": "We have two beds in our room",
+    "back": "Nosotros tenemos dos camas en nuestra pieza"
+  },
+  {
+    "front": "There are bees in the garden",
+    "back": "Hay abejas en el jardín"
+  },
+  {
+    "front": "I will come before meal",
+    "back": "Yo vendré antes de la comida"
+  },
+  { "front": "His behaviour is very bad", "back": "Su conducta es muy mala" },
+  {
+    "front": "What are your beliefs about this religion? ¿",
+    "back": "Cuales son sus creencias acerca de esta religión?"
+  },
+  {
+    "front": "This is a new bell in our church",
+    "back": "Hay una nueva campana en nuestra iglesia"
+  },
+  { "front": "He has a bent back", "back": "El tiene una espalda encorvada" },
+  {
+    "front": "There was only one berry on the plate",
+    "back": "Había solamente una frambuesa en el plato"
+  },
+  {
+    "front": "The town is between two rivers",
+    "back": "La ciudad está entre dos ríos"
+  },
+  {
+    "front": "Those birds have beautiful feathers",
+    "back": "Esos pájaros tienen hermosas plumas"
+  },
+  {
+    "front": "The news of his birth came by letter",
+    "back": "La noticia de su nacimiento llegó por carta"
+  },
+  {
+    "front": "He gave a bit of meat to the dog",
+    "back": "El dio un pedazo de carne al perro"
+  },
+  { "front": "The dog gave me a bite", "back": "El perro me dio un mordisco" },
+  { "front": "Those are bitter apples", "back": "Esas son manzanas amargas" },
+  {
+    "front": "Have you a black coat? ¿",
+    "back": "Tiene usted una chaqueta negra?"
+  },
+  {
+    "front": "There was blood on his coat",
+    "back": "Había sangre en su chaqueta"
+  },
+  { "front": "This blade is very sharp", "back": "Esta hoja está muy afilada" },
+  {
+    "front": "He gave me a blow in the eye",
+    "back": "El me dio un golpe en el ojo"
+  },
+  {
+    "front": "She has a new blue dress",
+    "back": "Ella tiene un nuevo vestido azul"
+  },
+  {
+    "front": "He got the boards for the floor",
+    "back": "El consiguió las tablas para el piso"
+  },
+  { "front": "I have a new boat", "back": "Yo tengo un bote nuevo" },
+  {
+    "front": "He has the body of a strong man",
+    "back": "El tiene el cuerpo de un hombre robusto"
+  },
+  {
+    "front": "Give en a kettle of boiling water",
+    "back": "Deme una tetera de agua hirviendo"
+  },
+  {
+    "front": "The boy gave a bone to his dog",
+    "back": "El niño dio un hueso a su perro"
+  },
+  {
+    "front": "He put the book on the table",
+    "back": "El puso el libro sobre la mesa"
+  },
+  {
+    "front": "These boots are very cheap",
+    "back": "Esas botas son muy baratas"
+  },
+  {
+    "front": "This is a bottle of white wine",
+    "back": "Esta es una botella de vino blanco"
+  },
+  {
+    "front": "Give me a box of matches, please",
+    "back": "Deme una caja de fósforos, por favor"
+  },
+  {
+    "front": "I have three boys and a girl",
+    "back": "Yo tengo tres niños y una niña"
+  },
+  {
+    "front": "This boy has the brain of a man",
+    "back": "Ese niño tiene el cerebro de un hombre"
+  },
+  {
+    "front": "This train has a new brakes",
+    "back": "Ese tren tiene frenos nuevos"
+  },
+  {
+    "front": "Give me a branch of that tree",
+    "back": "Deme una rama de ese árbol"
+  },
+  {
+    "front": "This is a brass ornament",
+    "back": "Este es un adorno de bronce"
+  },
+  {
+    "front": "She gave bread to the poor man",
+    "back": "Ella dio pan al pobre hombre"
+  },
+  {
+    "front": "Take deep breaths of air",
+    "back": "Tome respiración profunda de aire"
+  },
+  {
+    "front": "These bricks are very good",
+    "back": "Estos ladrillos son muy buenos"
+  },
+  {
+    "front": "There are five bridges across the river",
+    "back": "Hay cinco puentes a través del río"
+  },
+  {
+    "front": "Yesterday,",
+    "back": "I had a bright idea Ayer, yo tuve una idea brillante"
+  },
+  {
+    "front": "This glass was broken by my son",
+    "back": "Este vaso fue quebrado por mi hijo"
+  },
+  {
+    "front": "I have a brother in",
+    "back": "Brazil Yo tengo un hermano en Brasil"
+  },
+  { "front": "She has brown hair", "back": "Ella tiene pelo castaño" },
+  {
+    "front": "He put the brush on the table",
+    "back": "Ella puso la brocha sobre la mesa"
+  },
+  {
+    "front": "I will give a buck to water to your horse",
+    "back": "Yo daré un balde de agua a su caballo"
+  },
+  {
+    "front": "There are news buildings in",
+    "back": "Santiago Hay nuevos edificios en Santiago"
+  },
+  { "front": "This bulb is broken", "back": "Esta ampolleta está rota" },
+  {
+    "front": "There is a burn in my coat",
+    "back": "Hay una quemadura en mi chaqueta"
+  },
+  {
+    "front": "There was a burst in the pipe",
+    "back": "Hubo una explosión en la cañería"
+  },
+  {
+    "front": "I go to my business every day",
+    "back": "Yo voy a mi negocio cada día"
+  },
+  {
+    "front": "I will go; but not this morning",
+    "back": "Yo iré; pero no esta mañana"
+  },
+  {
+    "front": "Put bread and butter on the table",
+    "back": "Ponga pan y mantequilla sobre la mesa"
+  },
+  {
+    "front": "Please, put this button on my coat",
+    "back": "Por favor, ponga esta botón en mi chaqueta"
+  },
+  {
+    "front": "We will go by the new road",
+    "back": "Nosotros iremos por el camino nuevo"
+  },
+  {
+    "front": "She put the cake on the table",
+    "back": "Ella puso el pastel sobre la mesa"
+  },
+  {
+    "front": "I have a new camera",
+    "back": "Yo tengo una cámara fotográfica nueva"
+  },
+  {
+    "front": "Give me a canvas seat, please",
+    "back": "Deme un asiento de lona, por favor"
+  },
+  {
+    "front": "Give this card to your brother",
+    "back": "De esta tarjeta a su hermano"
+  },
+  {
+    "front": "Take my baby, but with care",
+    "back": "Tome mi nene, pero con cuidado"
+  },
+  {
+    "front": "Your new carriage is ready",
+    "back": "Su nuevo coche está listo"
+  },
+  {
+    "front": "That old cart is from my farm",
+    "back": "Ese viejo carretón es de mi hacienda"
+  },
+  {
+    "front": "We have three cats in our house",
+    "back": "Nosotros tenemos tres gatos en nuestra casa"
+  },
+  {
+    "front": "That was the cause of his dead",
+    "back": "Esta fue la causa de su muerte"
+  },
+  {
+    "front": "I am certain that he will come",
+    "back": "Yo estoy seguro de que él vendrá"
+  },
+  {
+    "front": "Here is the new chain for your dog",
+    "back": "Aquí está la cadena nueva para su perro"
+  },
+  {
+    "front": "He is writing with chalk on the wall",
+    "back": "El está escribiendo con tiza sobre la pared"
+  },
+  {
+    "front": "This is your last chance",
+    "back": "Esta es su última oportunidad"
+  },
+  {
+    "front": "We will make a change of house",
+    "back": "Nosotros haremos un cambio de casa"
+  },
+  { "front": "This is a cheap hat", "back": "Este es un sombrero barato" },
+  {
+    "front": "Put the cheese on the table",
+    "back": "Ponga el queso sobre la mesa"
+  },
+  {
+    "front": "This is a chemical poison for rats",
+    "back": "Este es un veneno químico para ratones"
+  },
+  {
+    "front": "He has the chest of a strong man",
+    "back": "El tiene el pecho de un hombre fuerte"
+  },
+  {
+    "front": "Lima is the chief town of",
+    "back": "Peru Lima es la ciudad principal de Perú"
+  },
+  {
+    "front": "He has a cut on his chin",
+    "back": "El tiene una cortadura en su barba"
+  },
+  {
+    "front": "I will go to that church tomorrow",
+    "back": "Yo iré a esa iglesia mañana"
+  },
+  {
+    "front": "He has a small circle of friends",
+    "back": "El tiene un pequeño círculo de amigos"
+  },
+  { "front": "Get me a clean shirt", "back": "Consígame una camisa limpia" },
+  {
+    "front": "The sky is very clear this morning",
+    "back": "El cielo está muy claro esta mañana"
+  },
+  {
+    "front": "Your clock is slow",
+    "back": "Su reloj (de pared) está atrasado"
+  },
+  {
+    "front": "This is a good cloth for your news dress",
+    "back": "Esta es una buena tela para su nuevo traje"
+  },
+  { "front": "There are clouds in the sky", "back": "Hay nubes en el cielo" },
+  {
+    "front": "There is a coal mine near this town",
+    "back": "Hay una mina de carbón cerca de esta ciudad"
+  },
+  {
+    "front": "I will make a coat with this cloth",
+    "back": "Yo haré una chaqueta con esta tela"
+  },
+  { "front": "You have cold hands", "back": "Usted tiene manos frías" },
+  {
+    "front": "Give me a collar for my dog",
+    "back": "Deme un collar para mi perro"
+  },
+  {
+    "front": "What is the colour of her hair? ¿",
+    "back": "Cual es el color de su pelo?"
+  },
+  { "front": "Give me a comb, please", "back": "Deme una peineta, por favor" },
+  { "front": "He will come tomorrow", "back": "El vendrá mañana" },
+  {
+    "front": "There is great comfort in this house",
+    "back": "Hay gran comodidad en esta casa"
+  },
+  {
+    "front": "I sent a private letter to the committee",
+    "back": "Yo envié una carta privada al comité"
+  },
+  {
+    "front": "He is a man with common sense",
+    "back": "El es un hombre con sentido común"
+  },
+  {
+    "front": "The office of my company is in",
+    "back": "Santiago La oficina de mi compañía está en Santiago"
+  },
+  {
+    "front": "There is no comparison between them",
+    "back": "No hay comparación entre ellos"
+  },
+  {
+    "front": "There competition for boys",
+    "back": "Hay una competencia para niños"
+  },
+  {
+    "front": "Give me a complete list of theirs names",
+    "back": "Deme una lista completa de sus nombres"
+  },
+  {
+    "front": "This is a complex question for me",
+    "back": "Esta es una pregunta complicada para mí"
+  },
+  {
+    "front": "What are the conditions of your offer? ¿",
+    "back": "Cuales son las condiciones de su oferta?"
+  },
+  {
+    "front": "I have trade connections in",
+    "back": "Lima Yo tengo conexiones comerciales en Lima"
+  },
+  {
+    "front": "The general was conscious of his bad position",
+    "back": "El general estaba consciente de su mala posición"
+  },
+  {
+    "front": "We have good cook",
+    "back": "Nosotros tenemos una buena cocinera"
+  },
+  {
+    "front": "I have complete control over those boys",
+    "back": "Yo tengo completo control sobre esos niños"
+  },
+  {
+    "front": "There are many copper mines in",
+    "back": "Chile Hay muchas minas de cobre en Chile"
+  },
+  {
+    "front": "Make a copy of this letter",
+    "back": "Haga una copia de esta carta"
+  },
+  {
+    "front": "Give this cord to your brother",
+    "back": "Dé este cordel a su hermano"
+  },
+  {
+    "front": "Put this cork in that bottle",
+    "back": "Ponga este corcho en esa botella"
+  },
+  {
+    "front": "She had a new cotton dress",
+    "back": "Ella tiene un vestido nuevo de algodón"
+  },
+  { "front": "Your cough is very bad", "back": "Su tos es muy mala" },
+  {
+    "front": "I will go to my country in the winter",
+    "back": "Yo iré a mi país en el invierno"
+  },
+  {
+    "front": "Give me a new cover for my bed",
+    "back": "Deme una cubierta nueva para mi cama"
+  },
+  {
+    "front": "There are twenty cows in this field",
+    "back": "Hay veinte vacas en este campo"
+  },
+  {
+    "front": "There is a crack in the glass",
+    "back": "Hay una quebradura en el vidrio"
+  },
+  {
+    "front": "Have you credit in this bank? ¿",
+    "back": "Tiene usted crédito en este banco?"
+  },
+  {
+    "front": "The news of the crime was in the papers",
+    "back": "Las noticias del crimen estaban en los diarios"
+  },
+  { "front": "He is a cruel man", "back": "El es un hombre cruel" },
+  {
+    "front": "There is a crush in that street",
+    "back": "Hay una aglomeración en esa calle"
+  },
+  { "front": "He gave a cry of pain", "back": "El dio un grito de dolor" },
+  {
+    "front": "Give me a cup of milk, please",
+    "back": "Deme una taza de leche, por favor"
+  },
+  {
+    "front": "In this river the current is very strong",
+    "back": "En este río la corriente es muy fuerte"
+  },
+  {
+    "front": "She has two curtains in her room",
+    "back": "Ella tiene dos cortinas en su habitación"
+  },
+  {
+    "front": "There are many curves in this road",
+    "back": "Hay muchas curvas en este camino"
+  },
+  { "front": "These cushions are news", "back": "Estos cojines son nuevos" },
+  {
+    "front": "He has a cut on the face",
+    "back": "El tiene una cortadura en la cara"
+  },
+  {
+    "front": "The fire did damage to my house",
+    "back": "El incendio hizo daño a mi casa"
+  },
+  {
+    "front": "There is danger of war in",
+    "back": "Europe Hay peligro de guerra en Europa"
+  },
+  {
+    "front": "This house has dark rooms",
+    "back": "Esta casa tiene habitaciones oscuras"
+  },
+  {
+    "front": "I have one daughter and two sons",
+    "back": "Yo tengo una hija y dos hijos"
+  },
+  {
+    "front": "In this country the days are very cold",
+    "back": "En este país los días son muy fríos"
+  },
+  {
+    "front": "There is a dead man in the street",
+    "back": "Hay un hombre muerto en la calle"
+  },
+  { "front": "This silk is very dear", "back": "Esta seda es muy cara" },
+  {
+    "front": "The news of his death came this morning",
+    "back": "La noticia de su muerte llegó esta mañana"
+  },
+  {
+    "front": "He has debts with all the banks",
+    "back": "El tiene deudas con todos los bancos"
+  },
+  {
+    "front": "What was the decision of the judge? ¿",
+    "back": "Cuál fue la decisión del juez?"
+  },
+  {
+    "front": "He has a deep cut in his leg",
+    "back": "El tiene una profunda cortadura en su pierna"
+  },
+  {
+    "front": "The ship is ten degrees to the west of",
+    "back": "Lima El vapor está diez grado al oeste de Lima"
+  },
+  {
+    "front": "I have a delicate heart",
+    "back": "Yo tengo un corazón delicado"
+  },
+  {
+    "front": "A servant is in a dependant position",
+    "back": "Un sirviente está en una posición subalterna"
+  },
+  {
+    "front": "Here is the new design for your house",
+    "back": "Aquí está el nuevo diseño para su casa"
+  },
+  {
+    "front": "My great desire is to have a garden",
+    "back": "Mi gran deseo es tener un jardín"
+  },
+  {
+    "front": "We saw the destruction of the town",
+    "back": "Nosotros vimos la destrucción de la ciudad"
+  },
+  {
+    "front": "Give me all the details of this crime",
+    "back": "Deme todos los detalles de este crimen"
+  },
+  {
+    "front": "He has great physical development",
+    "back": "El tiene gran desarrollo físico"
+  },
+  {
+    "front": "I have different ideas on that point",
+    "back": "Yo tengo diferentes ideas sobre ese punto"
+  },
+  { "front": "My digestion is very bad", "back": "Mi digestión es muy mala" },
+  {
+    "front": "In what direction are you going? ¿",
+    "back": "En que dirección va usted?"
+  },
+  {
+    "front": "This boy has dirty hands",
+    "back": "Este niño tiene las manos sucias"
+  },
+  {
+    "front": "Who made the discovery of",
+    "back": "America? ¿ Quien hizo el descubrimiento de América?"
+  },
+  {
+    "front": "I have had a discussion with my sister",
+    "back": "Yo he tenido una discusión con mi hermana"
+  },
+  {
+    "front": "There is a strange disease in this town",
+    "back": "Hay una enfermedad extraña en esta ciudad"
+  },
+  {
+    "front": "He gave a look of disgust",
+    "back": "El dio una mirada de disgusto"
+  },
+  {
+    "front": "What is the distance from here to",
+    "back": "Paris? ¿ Cual es la distancia desde aquí a París?"
+  },
+  {
+    "front": "He made a distribution of his money",
+    "back": "El hizo una distribución de su dinero"
+  },
+  {
+    "front": "There is a division between the two houses",
+    "back": "Hay una división entre las dos casas"
+  },
+  { "front": "He will do this work", "back": "El hará este trabajo" },
+  {
+    "front": "They have two dogs in their house",
+    "back": "Ellos tienen dos perros en su casa"
+  },
+  {
+    "front": "This room has two doors and one window",
+    "back": "Esta habitación tiene dos puertas y una ventana"
+  },
+  {
+    "front": "There is no doubt that he is ill",
+    "back": "No hay duda que él está enfermo"
+  },
+  {
+    "front": "We will go down by the lift",
+    "back": "Nosotros bajaremos por el ascensor"
+  },
+  { "front": "This drain is dirty", "back": "Este desagüe está sucio" },
+  {
+    "front": "This drawer has a good lock",
+    "back": "Este cajón tiene una buena cerradura"
+  },
+  {
+    "front": "Send this blue dress to her house",
+    "back": "Envíe este traje azul a su casa"
+  },
+  {
+    "front": "Take a warm drink every night",
+    "back": "Tome una bebida caliente cada noche"
+  },
+  {
+    "front": "He is driving an automobile",
+    "back": "El está manejando un automóvil"
+  },
+  {
+    "front": "There is not a drop of water",
+    "back": "No hay una gota de agua"
+  },
+  {
+    "front": "Give me a dry cloth, please",
+    "back": "Deme un paño seco, por favor"
+  },
+  {
+    "front": "There is dust on these seats",
+    "back": "Hay polvo sobre esos asientos"
+  },
+  {
+    "front": "This boy has dirty ears",
+    "back": "Este niño tiene orejas sucias"
+  },
+  { "front": "Come early tomorrow", "back": "Venga temprano mañana" },
+  {
+    "front": "This earth is very fertile",
+    "back": "Esta tierra es muy fértil"
+  },
+  {
+    "front": "Argentina is to the east of",
+    "back": "Chile Argentina está al este de Chile"
+  },
+  {
+    "front": "Put the cart on the edge of the road",
+    "back": "Ponga el carretón en la orilla del camino"
+  },
+  {
+    "front": "He gave a good education to his son",
+    "back": "El dio una buena educación a su hijo"
+  },
+  {
+    "front": "There are six eggs in the basket",
+    "back": "Hay seis huevos en el canasto"
+  },
+  {
+    "front": "That noise had a bad effect on my nerves",
+    "back": "Ese ruido tuvo un mal efecto sobre mis nervios"
+  },
+  { "front": "He has an elastic step", "back": "El tiene un paso elástico" },
+  {
+    "front": "We have electric light in the house",
+    "back": "Nosotros tenemos luz eléctrica en la casa"
+  },
+  {
+    "front": "This is the end of the story",
+    "back": "Esta es el fin del cuento"
+  },
+  {
+    "front": "These engines are from",
+    "back": "Argentina Estas máquinas son de Argentina"
+  },
+  {
+    "front": "Have you enough sugar in your milk? ¿",
+    "back": "Tiene usted bastante azúcar en su leche?"
+  },
+  {
+    "front": "These houses are equal in size",
+    "back": "Estas casas son iguales en tamaño"
+  },
+  {
+    "front": "I have made an error in my work",
+    "back": "Yo he hecho un error en mi trabajo"
+  },
+  { "front": "Even he came late yesterday", "back": "Aun él vino tarde ayer" },
+  {
+    "front": "That was a great event in my life",
+    "back": "Ese fue un gran acontecimiento en mi vida"
+  },
+  {
+    "front": "He is as ill as ever",
+    "back": "El está tan enfermo como siempre"
+  },
+  { "front": "I go to", "back": "Madrid every year Yo voy a Madrid cada año" },
+  {
+    "front": "Give me an example of your work",
+    "back": "Deme un ejemplo de su trabajo"
+  },
+  {
+    "front": "We will make an exchange of books",
+    "back": "Nosotros haremos un cambio de libros"
+  },
+  {
+    "front": "He has a sad existence in that prison",
+    "back": "El tiene una triste existencia en esa prisión"
+  },
+  {
+    "front": "There was an expansion in our industry",
+    "back": "Hubo una expansión en nuestra Industria"
+  },
+  {
+    "front": "Have you any experience in this work? ¿ tiene usted alguna experiencia en este trabajo?",
+    "back": ""
+  },
+  { "front": "He is an expert in jewels", "back": "El es un experto en joyas" },
+  {
+    "front": "She has dark eyes and black hair",
+    "back": "Ella tiene ojos oscuros y pelo negro"
+  },
+  {
+    "front": "She has a beautiful face",
+    "back": "Ella tiene una cara hermosa"
+  },
+  {
+    "front": "It is a fact that he is ill",
+    "back": "Es un hecho que él está enfermo"
+  },
+  {
+    "front": "There was a fall in the exchange",
+    "back": "Hubo una caída en el cambio"
+  },
+  {
+    "front": "He gave a false statement",
+    "back": "El dio un falso testimonio"
+  },
+  {
+    "front": "In our home there are three boys",
+    "back": "En nuestra familia hay tres niños"
+  },
+  {
+    "front": "Valparaiso is very far from here",
+    "back": "Valparaiso está muy lejos de aquí"
+  },
+  {
+    "front": "We have a farm in",
+    "back": "Cuba Nosotros tenemos una hacienda en Cuba"
+  },
+  { "front": "My brother is very fat", "back": "Mi hermano es muy gordo" },
+  {
+    "front": "Our father is very ill",
+    "back": "Nuestro padre está muy enfermo"
+  },
+  {
+    "front": "There is no fear of war in",
+    "back": "America No hay temor de guerra en América"
+  },
+  {
+    "front": "She has a long feather in her hat",
+    "back": "Ella tiene una pluma larga en su sombrero"
+  },
+  { "front": "He is a feeble man", "back": "El es un hombre débil" },
+  { "front": "A feeling of love", "back": "Un sentimiento de amor" },
+  { "front": "This animal is female", "back": "Este animal es hembra" },
+  { "front": "Chile is a fertile country", "back": "Chile es un país fértil" },
+  {
+    "front": "This is not fiction, this is true",
+    "back": "Esto no es ficción, esto es verdadero"
+  },
+  {
+    "front": "This field is full of cows",
+    "back": "Este campo está lleno de vacas"
+  },
+  {
+    "front": "I had a fight with my brother",
+    "back": "Yo tuve una pelea con mi hermano"
+  },
+  {
+    "front": "He is putting his fingers in the water",
+    "back": "El está poniendo sus dedos en el agua"
+  },
+  {
+    "front": "There was a fire in his house",
+    "back": "Hubo un incendio en su casa"
+  },
+  { "front": "That is her first son", "back": "Ese es su primer hijo" },
+  {
+    "front": "There are fishes in this river",
+    "back": "Hay peces en este río"
+  },
+  {
+    "front": "This linen has a fixed prices",
+    "back": "Este lienzo tiene un precio fijo"
+  },
+  {
+    "front": "I have put a flag in the window",
+    "back": "Yo he puesto una bandera en la ventana"
+  },
+  {
+    "front": "I saw the flames from my window",
+    "back": "Yo vi las llamas desde mi ventana"
+  },
+  {
+    "front": "There are many flat roads in this country",
+    "back": "Hay muchos caminos planos en este país"
+  },
+  {
+    "front": "He made a flight to",
+    "back": "Mexico El hizo un vuelo a México"
+  },
+  {
+    "front": "I will put new floors in my house",
+    "back": "Yo pondré pisos nuevos en mi casa"
+  },
+  {
+    "front": "There are beautiful flowers in this garden",
+    "back": "Hay flores hermosas en este jardín"
+  },
+  {
+    "front": "The baby has a fly in his cup of milk",
+    "back": "El nene tiene una mosca en su taza de leche"
+  },
+  {
+    "front": "She has many folds in her dress",
+    "back": "Ella tiene muchos dobleces en su vestido"
+  },
+  {
+    "front": "There is enough food for two months",
+    "back": "Hay bastante alimento para dos meses"
+  },
+  {
+    "front": "You have made a foolish error",
+    "back": "Ud. ha hecho un error tonto"
+  },
+  { "front": "Her foot is very small", "back": "Su pié es muy pequeño" },
+  {
+    "front": "Give me a spoon for my soup",
+    "back": "Deme una cuchara para mi sopa"
+  },
+  {
+    "front": "I have very little force in my left arm",
+    "back": "Yo tengo muy poca fuerza en mi brazo izq."
+  },
+  {
+    "front": "Give me a knife and fork, please",
+    "back": "Deme un cuchillo y tenedor, por favor"
+  },
+  {
+    "front": "This is a new form of education",
+    "back": "Esta es una nueva forma de educación"
+  },
+  {
+    "front": "The army will go forward during the night",
+    "back": "El ejército irá delante durante la noche"
+  },
+  {
+    "front": "We have many fowls in the garden",
+    "back": "Nosotros tenemos muchas aves en el jardín"
+  },
+  {
+    "front": "I have a new frame for that picture",
+    "back": "Yo tengo un marco nuevo para ese retrato"
+  },
+  { "front": "Brazil is a free country", "back": "Brasil es un país libre" },
+  {
+    "front": "We have frequent rains in winter",
+    "back": "Nosotros tenemos frecuentes lluvias en invierno"
+  },
+  {
+    "front": "I have many friends in",
+    "back": "Peru Yo tengo muchos amigos en Perú"
+  },
+  {
+    "front": "This is a letter from my father",
+    "back": "Esta es una carta de mi padre"
+  },
+  {
+    "front": "This the front of the house",
+    "back": "Este es el frente de la casa"
+  },
+  {
+    "front": "Put the fruit on the table",
+    "back": "Ponga la fruta sobre la mesa"
+  },
+  {
+    "front": "Our garden is full of flowers",
+    "back": "Nuestro jardín está lleno de flores"
+  },
+  { "front": "This is my future house", "back": "Esta es mi futura casa" },
+  {
+    "front": "I am the general manager in this office",
+    "back": "Yo soy el gerente principal en esta oficina"
+  },
+  { "front": "I will get that book", "back": "Yo conseguiré ese libro" },
+  {
+    "front": "There are fifty girls in that school",
+    "back": "Hay cincuenta niñas en ese colegio"
+  },
+  {
+    "front": "I will give food to your dog",
+    "back": "Yo daré alimento a su perro"
+  },
+  {
+    "front": "Give me a glass of water, please",
+    "back": "Deme un vaso de agua, por favor"
+  },
+  {
+    "front": "She put her gloves on the table",
+    "back": "Ella puso sus guantes sobre la mesa"
+  },
+  { "front": "Please, go to his house", "back": "Por favor, vaya a su casa" },
+  {
+    "front": "I have ten goats on my farm",
+    "back": "Yo tengo diez cabras en mi hacienda"
+  },
+  { "front": "He has a gold ring", "back": "El tiene un anillo de oro" },
+  {
+    "front": "I have good news for you",
+    "back": "Yo tengo buenas noticias para usted"
+  },
+  {
+    "front": "There is a new government in this country",
+    "back": "Hay un nuevo gobierno en este país"
+  },
+  { "front": "This is a grain of sand", "back": "Este es un grano de arena" },
+  {
+    "front": "This is a good grass for the cows",
+    "back": "Este es buen pasto para las vacas"
+  },
+  {
+    "front": "Bolivar was a great general",
+    "back": "Bolívar fue un gran general"
+  },
+  {
+    "front": "Our daughter has a green eyes",
+    "back": "Nuestra hija tiene los ojos verdes"
+  },
+  { "front": "Her hat is grey", "back": "Su sombrero es gris" },
+  {
+    "front": "He gave me a grip on my arm",
+    "back": "El me dio un apretón en el brazo"
+  },
+  {
+    "front": "There was a group of boys in my room",
+    "back": "Había un grupo de niños en mi habitación"
+  },
+  {
+    "front": "This tree has a quick growth in the summer",
+    "back": "Este árbol tiene un rápido crecimiento en el verano"
+  },
+  {
+    "front": "Here is then new guide for our men",
+    "back": "Aquí está el nuevo guía para nuestros hombres"
+  },
+  {
+    "front": "I have six guns in my house",
+    "back": "Yo tengo seis escopetas en mi casa"
+  },
+  { "front": "Your hair is very long", "back": "Su pelo está muy largo" },
+  {
+    "front": "Give me a hammer and some nails",
+    "back": "Deme un martillo y algunos clavos"
+  },
+  { "front": "Her hands are very white", "back": "Sus manos son muy blancas" },
+  { "front": "He is hanging a picture", "back": "El está colgando un cuadro" },
+  { "front": "I am a happy man", "back": "Yo soy un hombre feliz" },
+  {
+    "front": "The ship was in the harbour yesterday",
+    "back": "El vapor estuvo en la bahía ayer"
+  },
+  {
+    "front": "That man has a hard heart",
+    "back": "Ese hombre tiene un corazón duro"
+  },
+  {
+    "front": "There is no harmony between them",
+    "back": "No hay armonía entre ellos"
+  },
+  {
+    "front": "I have a new hat for this dress",
+    "back": "Yo tengo un sombrero nuevo para este vestido"
+  },
+  {
+    "front": "The opposite of hate is love",
+    "back": "Lo opuesto de odio es amor"
+  },
+  {
+    "front": "These poor boys have very little food",
+    "back": "Estos niños pobres tienen muy poco alimento"
+  },
+  { "front": "He is ill", "back": "El está enfermo" },
+  {
+    "front": "She put her hat on her head",
+    "back": "Ella puso su sombrero sobre su cabeza"
+  },
+  { "front": "He seem a healthy man", "back": "El parece un hombre sano" },
+  { "front": "My hearing is very bad", "back": "Mi oído está muy malo" },
+  {
+    "front": "She has a heart of gold",
+    "back": "Ella tiene un corazón de oro"
+  },
+  {
+    "front": "In",
+    "back": "Panama the heat is very great En Panamá la calor es muy grande"
+  },
+  { "front": "Give me your help, please", "back": "Deme su ayuda, por favor" },
+  { "front": "Come here, please", "back": "Venga aquí, por favor" },
+  {
+    "front": "There are high mountains in",
+    "back": "Peru Hay altas montañas en Perú"
+  },
+  {
+    "front": "I am teaching history to these boys",
+    "back": "Yo estoy enseñando historia a estos niños"
+  },
+  {
+    "front": "There is a hold in the roof",
+    "back": "Hay un agujero en el techo"
+  },
+  {
+    "front": "This ball is hollow in the middle",
+    "back": "Esta pelota es hueca en el medio"
+  },
+  {
+    "front": "He is putting a hook on the door",
+    "back": "El está poniendo un gancho en la puerta"
+  },
+  {
+    "front": "There is no hope for us",
+    "back": "No hay esperanza para nosotros"
+  },
+  {
+    "front": "The cows have two horns",
+    "back": "Las vacas tienen dos cuernos"
+  },
+  {
+    "front": "He has many horses on his farm",
+    "back": "El tiene muchos caballos en su hacienda"
+  },
+  {
+    "front": "She went to the hospital yesterday",
+    "back": "Ella fue al hospital ayer"
+  },
+  {
+    "front": "In three hours we will be in",
+    "back": "Bogota En tres horas nosotros estaremos en Bogotá"
+  },
+  {
+    "front": "His new house is very beautiful",
+    "back": "Su casa nueva es muy hermosa"
+  },
+  {
+    "front": "How are you this morning? ¿",
+    "back": "Como está Ud. esta mañana?"
+  },
+  { "front": "His humour is very bad", "back": "Su humor está muy malo" },
+  {
+    "front": "My mother say that",
+    "back": "I was ill Mi madre dijo que yo estaba enfermo"
+  },
+  {
+    "front": "He has put ice in the water",
+    "back": "El ha puesto hielo en el agua"
+  },
+  { "front": "Your idea is very good", "back": "Su idea es muy buena" },
+  {
+    "front": "I will go if you give me money",
+    "back": "Yo iré si Ud. me da dinero"
+  },
+  {
+    "front": "My father is ill in bed",
+    "back": "Mi padre está enfermo en cama"
+  },
+  {
+    "front": "He has an important position in my office",
+    "back": "El tiene una posición importante en mi oficina"
+  },
+  {
+    "front": "He gave an important impulse to the business",
+    "back": "El dio un nuevo impulso al negocio"
+  },
+  { "front": "He is in the house", "back": "El está en la casa" },
+  {
+    "front": "I had an increase my profits",
+    "back": "Yo tuve un aumento en mis ganancias"
+  },
+  { "front": "This is a new industry", "back": "Esta es una Industria nueva" },
+  {
+    "front": "Get me a bottle of ink, please",
+    "back": "Consígame una botella de tinta, por favor"
+  },
+  {
+    "front": "There are many insects in the grass",
+    "back": "Hay muchos insectos en el pasto"
+  },
+  {
+    "front": "Those instruments are very delicate",
+    "back": "Esos instrumentos son muy delicados"
+  },
+  {
+    "front": "Have you an insurance against fire? ¿",
+    "back": "Tiene Ud. un seguro contra incendios?"
+  },
+  {
+    "front": "He has great interest in his work",
+    "back": "El tiene gran interés en su trabajo"
+  },
+  {
+    "front": "His new invention is very important",
+    "back": "Su nueva invención es muy importante"
+  },
+  {
+    "front": "There are many iron mines in",
+    "back": "Spain Hay muchas minas de hierro en España"
+  },
+  { "front": "This island is very small", "back": "Esta isla es muy pequeña" },
+  {
+    "front": "Please, put the jelly on the table",
+    "back": "Por favor, ponga la jalea sobre la mesa"
+  },
+  {
+    "front": "She has jewels on her fingers",
+    "back": "Ella tiene joyas en sus dedos"
+  },
+  {
+    "front": "There are seven joints in this chain",
+    "back": "Hay siete uniones en esta cadena"
+  },
+  {
+    "front": "We will make the journey in the summer",
+    "back": "Nosotros haremos el viaje en el verano"
+  },
+  {
+    "front": "The goat gave a jump in the air",
+    "back": "La cabra dio un salto en el aire"
+  },
+  {
+    "front": "I will keep my money in that bank",
+    "back": "Yo mantendré mi dinero en ese banco"
+  },
+  {
+    "front": "This kettle is full of warm water",
+    "back": "Esta tetera está llena de agua caliente"
+  },
+  {
+    "front": "This is the key of your room",
+    "back": "Esta es la llave de su habitación"
+  },
+  { "front": "He gave me a kick", "back": "El me dio un puntapié" },
+  { "front": "He is a kind man", "back": "El es un hombre bondadoso" },
+  {
+    "front": "The girl gave a kiss to her mother",
+    "back": "La niña dio un beso a su madre"
+  },
+  {
+    "front": "Your right knee is dirty",
+    "back": "Su rodilla derecha está sucia"
+  },
+  {
+    "front": "He has a knife in his hand",
+    "back": "El tiene un cuchillo en su mano"
+  },
+  {
+    "front": "She made a knot in the cord",
+    "back": "Ella hizo un nudo en la cuerda"
+  },
+  {
+    "front": "I have a good knowledge of",
+    "back": "English Yo tengo un buen conocimiento de Inglés"
+  },
+  {
+    "front": "This is a good land for sheeps",
+    "back": "Este es un buen terreno para ovejas"
+  },
+  { "front": "What language is that? ¿", "back": "Que idioma es ese?" },
+  { "front": "I will make a last offer", "back": "Yo haré una última oferta" },
+  { "front": "He came late", "back": "El llegó tarde" },
+  { "front": "She has a happy laugh", "back": "Ella tiene una risa feliz" },
+  {
+    "front": "There is a new law against this",
+    "back": "Hay una nueva ley en contra de esto"
+  },
+  { "front": "This is a lead mine", "back": "Esta es una mina de plomo" },
+  {
+    "front": "Give me a leaf of white paper",
+    "back": "Deme una hoja de papel blanco"
+  },
+  {
+    "front": "He is learning the history of",
+    "back": "Mexico El está aprendiendo la historia de México"
+  },
+  {
+    "front": "This beautiful leather came to",
+    "back": "Chile Este hermoso cuero llegó de Chile"
+  },
+  {
+    "front": "The road is on the left side of the river",
+    "back": "El camino está en el lado izquierdo del río"
+  },
+  {
+    "front": "Your boy has his legs in the water",
+    "back": "Su niño tiene sus piernas en el agua"
+  },
+  { "front": "Let me go", "back": "Déjeme ir" },
+  {
+    "front": "I will send a letter to my father",
+    "back": "Yo enviaré una carta a mi padre"
+  },
+  {
+    "front": "His house has a level roof",
+    "back": "Su casa tiene un techo plano"
+  },
+  {
+    "front": "I went to the library this morning",
+    "back": "Yo fui a la biblioteca esta mañana"
+  },
+  {
+    "front": "There are two lifts in this building",
+    "back": "Hay dos ascensores en este edificio"
+  },
+  {
+    "front": "There is a light in her window",
+    "back": "Hay una luz en su ventana"
+  },
+  {
+    "front": "He is very like his father",
+    "back": "El es muy parecido a su padre"
+  },
+  {
+    "front": "This is the limit between",
+    "back": "Chile and Peru Este es el límite entre Chile y Perú"
+  },
+  {
+    "front": "He made a red line with his pencil",
+    "back": "El hizo una línea roja con su lápiz"
+  },
+  {
+    "front": "With this linen we will make shirts",
+    "back": "Con este lienzo haremos camisas"
+  },
+  { "front": "Her lips are very red", "back": "Sus labios son muy rojos" },
+  {
+    "front": "There is little liquid in this bottle",
+    "back": "Hay poco líquido en esta botella"
+  },
+  {
+    "front": "Here is the list of your men",
+    "back": "Aquí está la lista de sus hombres"
+  },
+  {
+    "front": "She has a little brother",
+    "back": "Ella tiene un hermano pequeño"
+  },
+  {
+    "front": "There was no living thing on that island",
+    "back": "No había cosa viva en esa isla"
+  },
+  {
+    "front": "There is no lock on this door",
+    "back": "No hay cerradura en esta puerta"
+  },
+  {
+    "front": "The days are long in summer",
+    "back": "Los días son largos en verano"
+  },
+  {
+    "front": "He gave a look in that direction",
+    "back": "El dio una mirada en esa dirección"
+  },
+  {
+    "front": "The horse was loose in the field",
+    "back": "El caballo estaba suelto en el campo"
+  },
+  {
+    "front": "This work is a loos of time",
+    "back": "Este trabajo es una pérdida de tiempo"
+  },
+  { "front": "He has a loud voice", "back": "El tiene una voz fuerte" },
+  {
+    "front": "There was no love in his look",
+    "back": "No había amor en su mirada"
+  },
+  { "front": "These are low mountains", "back": "Estos son cerros bajos" },
+  {
+    "front": "This machine is very old",
+    "back": "Esta máquina está muy vieja"
+  },
+  {
+    "front": "I will make an offer to your son",
+    "back": "Yo haré una oferta a su hijo"
+  },
+  {
+    "front": "The opposite of male is female",
+    "back": "Lo opuesto de masculino es femenino"
+  },
+  { "front": "This man is very strong", "back": "Este hombre está muy fuerte" },
+  {
+    "front": "He is the manager of our bank",
+    "back": "El es el gerente de nuestro banco"
+  },
+  {
+    "front": "This is a map of",
+    "back": "Argentina Este es un mapa de Argentina"
+  },
+  {
+    "front": "He made a mark on the paper",
+    "back": "El hizo una marca sobre el papel"
+  },
+  {
+    "front": "There is an old market in the town",
+    "back": "Hay un mercado antiguo en la ciudad"
+  },
+  { "front": "He is married man", "back": "El es un hombre casado" },
+  { "front": "I go to mass on", "back": "Sunday Yo voy a misa los Domingos" },
+  { "front": "Have you a match? ¿", "back": "Tiene Ud. un fósforos?" },
+  {
+    "front": "I will get the materials tomorrow",
+    "back": "Yo conseguiré los materiales mañana"
+  },
+  { "front": "You may go now", "back": "Usted puede irse ahora" },
+  {
+    "front": "He gave a meal to that poor man",
+    "back": "El dio una comida a ese pobre hombre"
+  },
+  {
+    "front": "This is a measure of distance",
+    "back": "Esta es una medida de distancia"
+  },
+  {
+    "front": "This sort of meat is bad for him",
+    "back": "Esta clase de carne es mala para él"
+  },
+  {
+    "front": "My friend is under medical attention",
+    "back": "Mi amigo está bajo atención médica"
+  },
+  {
+    "front": "There will be a meeting tomorrow",
+    "back": "Habrá una reunión mañana"
+  },
+  { "front": "My memory is very bad", "back": "Mi memoria es muy mala" },
+  {
+    "front": "This sort of metal has great value",
+    "back": "Este tipo de metal tiene gran valor"
+  },
+  {
+    "front": "This is a military school",
+    "back": "Esta es una escuela militar"
+  },
+  { "front": "Give this milk to your son", "back": "Dé esta leche a su hijo" },
+  { "front": "Your mind is very quick", "back": "Su mente es muy rápida" },
+  { "front": "I have a mine in", "back": "Brazil Tengo una mina en Brasil" },
+  {
+    "front": "There are sixty minutes in an hour",
+    "back": "Hay sesenta minutos en una hora"
+  },
+  {
+    "front": "There was mist this morning",
+    "back": "Hubo neblina esta mañana"
+  },
+  {
+    "front": "This wine is mixed with water",
+    "back": "Este vino está mezclado con agua"
+  },
+  { "front": "I have money for you", "back": "Yo tengo dinero para Usted" },
+  {
+    "front": "There are many monkeys in those woods",
+    "back": "Hay muchos monos en esos bosques"
+  },
+  {
+    "front": "There are twelve months in the year",
+    "back": "Hay doce meses en el año"
+  },
+  {
+    "front": "I saw a the moon among the trees",
+    "back": "Yo vi la luna entre los árboles"
+  },
+  { "front": "The morning was cold", "back": "La mañana estaba fría" },
+  { "front": "His mother is in", "back": "Uruguay Su madre está en Uruguay" },
+  {
+    "front": "There is a little motion on this ship",
+    "back": "Hay poco movimiento en este barco"
+  },
+  {
+    "front": "There are many mountains in",
+    "back": "Chile Hay muchas montañas en Chile"
+  },
+  { "front": "Her mouth is very small", "back": "Su boca es muy pequeña" },
+  {
+    "front": "The army made a move in that direction",
+    "back": "El ejército hizo un movimiento en esa dirección"
+  },
+  {
+    "front": "They have much in common",
+    "back": "Ellos tienen mucho en común"
+  },
+  {
+    "front": "He has strong muscles in his arms Él tiene músculos fuertes en sus brazos",
+    "back": ""
+  },
+  {
+    "front": "This music is very beautiful",
+    "back": "Esta música es muy hermosa"
+  },
+  {
+    "front": "Boy, your nails are very dirty",
+    "back": "Niño, tus uñas están muy sucias"
+  },
+  {
+    "front": "What is the name of this flower? ¿",
+    "back": "Cual es el nombre de esta flor ¿"
+  },
+  { "front": "This is a narrow street", "back": "Esta es una calle estrecha" },
+  { "front": "Mexico is a great nation", "back": "México es una gran nación" },
+  {
+    "front": "His natural impulses are good",
+    "back": "Sus impulso naturales son buenos."
+  },
+  {
+    "front": "I have a house near",
+    "back": "Santiago Yo tengo una casa cerca de Santiago"
+  },
+  {
+    "front": "I have all the necessary details",
+    "back": "Yo tengo todos los detalles necesarios"
+  },
+  { "front": "His neck is very thin", "back": "Su cuello es muy delgado" },
+  {
+    "front": "I have a great need of money",
+    "back": "Yo tengo una gran necesidad de dinero"
+  },
+  { "front": "Give me a needle, please", "back": "Deme una aguja, por favor" },
+  { "front": "He has nerves of steel Él tiene nervios de acero", "back": "" },
+  { "front": "My net is full of fish", "back": "Mi red está llena de pescado" },
+  {
+    "front": "We has a new house in",
+    "back": "Mendoza Nosotros tenemos una casa nueva en Mendoza"
+  },
+  {
+    "front": "Have you any news from your father",
+    "back": "Tiene Ud. alguna noticia de su padre"
+  },
+  { "front": "The night was cold", "back": "La noche fue fría" },
+  {
+    "front": "There is no water in my farm",
+    "back": "No hay agua en mi hacienda"
+  },
+  {
+    "front": "There was a strange noise in the night",
+    "back": "Hubo un ruido extraño en la noche"
+  },
+  { "front": "He is a normal man", "back": "El es un hombre normal" },
+  {
+    "front": "I will go to the north of",
+    "back": "Chile Yo iré al norte de Chile"
+  },
+  { "front": "His nose is very long", "back": "Su nariz es muy larga" },
+  { "front": "He is not in the house", "back": "El no está en casa" },
+  {
+    "front": "Send this note to your father",
+    "back": "Envía esta nota a tu padre"
+  },
+  {
+    "front": "We will go now and not tomorrow",
+    "back": "Iremos ahora y no mañana"
+  },
+  {
+    "front": "Give the number of your house",
+    "back": "Deme el número de su casa"
+  },
+  {
+    "front": "There are many nuts in this tree",
+    "back": "Hay muchas nueces en este árbol"
+  },
+  {
+    "front": "I made an observation to the committee",
+    "back": "Yo hice una observación al comité"
+  },
+  {
+    "front": "This is a book of history",
+    "back": "Este es un libro de historia"
+  },
+  {
+    "front": "Our ship is off her line of direction",
+    "back": "Nuestro buque está fuera de su línea de dirección."
+  },
+  {
+    "front": "He made an offer for my house",
+    "back": "El hizo una oferta por mi casa"
+  },
+  {
+    "front": "We have an office in",
+    "back": "Montevideo Tenemos una oficina en Montevideo"
+  },
+  {
+    "front": "There is oil in this bottle",
+    "back": "Hay aceite en esa botella"
+  },
+  {
+    "front": "This old house is very dark",
+    "back": "Esta vieja casa es muy oscura"
+  },
+  {
+    "front": "Put this plate on the table",
+    "back": "Pon este plato sobre la mesa"
+  },
+  {
+    "front": "I have only one key in my pocket",
+    "back": "Yo tengo solo una llave en mi bolsillo"
+  },
+  {
+    "front": "Our window was open all the morning",
+    "back": "Nuestra ventana estuvo abierta toda la mañana"
+  },
+  {
+    "front": "My father did the operation, yesterday",
+    "back": "Mi padre hizo la operación, ayer"
+  },
+  {
+    "front": "What is your opinion about this letter? ¿",
+    "back": "Cuál es su opinión de esta carta?"
+  },
+  {
+    "front": "Clean is the opposite of dirty",
+    "back": "Limpio es lo opuesto de sucio"
+  },
+  {
+    "front": "Will you go now, or tomorrow? ¿",
+    "back": "Irá Ud. ahora o mañana?"
+  },
+  {
+    "front": "Give me one orange, please",
+    "back": "Deme una naranja, por favor"
+  },
+  {
+    "front": "He gave the order in the morning",
+    "back": "El dio la orden en la mañana"
+  },
+  {
+    "front": "There is good organisation in our work",
+    "back": "Hay buena organización en nuestro trabajo"
+  },
+  {
+    "front": "He has some ornaments in his house",
+    "back": "El tiene algunos adornos en su casa"
+  },
+  {
+    "front": "Now, we have other ideas",
+    "back": "Ahora, nosotros tenemos otras ideas"
+  },
+  {
+    "front": "I will be out all the morning",
+    "back": "Yo estaré afuera toda la mañana"
+  },
+  { "front": "This oven is very warm", "back": "Este horno está muy caliente" },
+  { "front": "He has control over me", "back": "El tiene control sobre mí" },
+  {
+    "front": "I am the owner of this house",
+    "back": "Yo soy el dueño de la casa"
+  },
+  {
+    "front": "There are eighty pages in this book",
+    "back": "Hay ochenta páginas en este libro"
+  },
+  {
+    "front": "I have a pain in my leg",
+    "back": "Yo tengo un dolor en mi pierna"
+  },
+  {
+    "front": "This green paint is very dear",
+    "back": "Esta pintura verde es muy cara"
+  },
+  {
+    "front": "Put that paper on the table",
+    "back": "Ponga ese papel sobre la mesa"
+  },
+  { "front": "These are parallel lines", "back": "Estas son líneas paralelas" },
+  { "front": "This parcel is for you", "back": "Este paquete es para Ud." },
+  {
+    "front": "This is only a part of my work",
+    "back": "Esto es solo una parte de mi trabajo"
+  },
+  {
+    "front": "China, in the past, was a great nation",
+    "back": "China, en el pasado, fue una gran nación"
+  },
+  { "front": "What is the black paste? ¿", "back": "Que es esta pasta negra?" },
+  { "front": "I made the payment yesterday", "back": "Yo hice el pago ayer" },
+  {
+    "front": "There is no peace in this house",
+    "back": "No hay paz en esta casa"
+  },
+  { "front": "Give me a pen and ink", "back": "Deme una pluma y tinta" },
+  { "front": "He gave a pencil to the boy", "back": "El dio un lápiz al niño" },
+  { "front": "He is a kind person", "back": "El es una persona bondadosa" },
+  {
+    "front": "He has a great physical force",
+    "back": "El tiene una gran fuerza física"
+  },
+  {
+    "front": "This picture is of my father",
+    "back": "Este es un retrato de mi padre"
+  },
+  {
+    "front": "These pigs are very fat",
+    "back": "Estos cerdos están muy gordos"
+  },
+  {
+    "front": "Give me a pin for my dress",
+    "back": "Deme un alfiler para mi vestido"
+  },
+  {
+    "front": "He put his pipe on the table",
+    "back": "El puso su pipa sobre la mesa"
+  },
+  { "front": "There is no place for you", "back": "No hay plaza para Ud." },
+  {
+    "front": "Give me a plane and a hammer",
+    "back": "Deme un cepillo (de madera) y un martillo"
+  },
+  {
+    "front": "What is the name of this plant? ¿",
+    "back": "Cual es el nombre de esta planta?"
+  },
+  { "front": "Give me a plat of soup", "back": "Deme un plato de sopa" },
+  {
+    "front": "This is a play of words",
+    "back": "Este es un juego de palabras"
+  },
+  {
+    "front": "He said: please, give me that book",
+    "back": "El dijo: por favor, deme ese libro"
+  },
+  {
+    "front": "I had the pleasure of his company",
+    "back": "Yo tuve el placer de su compañía"
+  },
+  {
+    "front": "This plough is for my farm",
+    "back": "Este arado es para mi hacienda"
+  },
+  {
+    "front": "His pocket is full of money",
+    "back": "Su bolsillo está lleno de dinero"
+  },
+  {
+    "front": "There is no point in my pencil",
+    "back": "No hay punta en mi lápiz"
+  },
+  {
+    "front": "Get me a poison for rats",
+    "back": "Consígame un veneno para ratones"
+  },
+  {
+    "front": "This is a box of polish for shoes",
+    "back": "Esta es una caja de lustre para zapatos"
+  },
+  {
+    "front": "His political position is bad",
+    "back": "Su posición política es mala"
+  },
+  {
+    "front": "We are very poor this year",
+    "back": "Nosotros estamos muy pobres este año"
+  },
+  {
+    "front": "There are no porters in this building",
+    "back": "No hay porteros en este edificio"
+  },
+  {
+    "front": "He has a good position in the bank",
+    "back": "El tiene una posición buena en el banco"
+  },
+  { "front": "It is not possible", "back": "No es posible" },
+  { "front": "Put the pot on the fire", "back": "Ponga la olla en el fuego" },
+  {
+    "front": "There are no potatoes in the house",
+    "back": "No hay papas en la casa"
+  },
+  {
+    "front": "Give me a box of face-powder",
+    "back": "Deme una caja de polvo para la cara"
+  },
+  {
+    "front": "That man has power over us",
+    "back": "Ese hombre tiene poder sobre nosotros"
+  },
+  {
+    "front": "He was present at the meeting",
+    "back": "El estaba presente en la reunión"
+  },
+  {
+    "front": "What is the price of that hat? ¿",
+    "back": "Cual es el precio de ese sombrero?"
+  },
+  {
+    "front": "In this book the print is very good",
+    "back": "En ese libro la impresión es muy buena"
+  },
+  {
+    "front": "He will be in prison for two years",
+    "back": "El estará en prisión por dos años"
+  },
+  {
+    "front": "He sent me a private letter",
+    "back": "El me envió una carta privada"
+  },
+  { "front": "It is very probable", "back": "Es muy probable" },
+  {
+    "front": "I sent him the products of my farm",
+    "back": "Yo le envié los productos de mi hacienda"
+  },
+  {
+    "front": "He had a small profit this year",
+    "back": "El tuvo una pequeña utilidad este año"
+  },
+  {
+    "front": "I have a property in the south",
+    "back": "Yo tengo una propiedad en el sur"
+  },
+  {
+    "front": "Is that book in prose or in verse? ¿",
+    "back": "Está ese libro en prosa o en verso?"
+  },
+  {
+    "front": "I made a protest against his decision",
+    "back": "Yo hice una protesta en contra de su decisión"
+  },
+  { "front": "This is a public school", "back": "Esta es una escuela pública" },
+  {
+    "front": "He gave a strong pull on the cord",
+    "back": "El dio un fuerte tirón en la cuerda"
+  },
+  {
+    "front": "I have a pump for the water",
+    "back": "Yo tengo una bomba para el agua"
+  },
+  { "front": "What was his punishment? ¿", "back": "Cual fue su castigo?" },
+  {
+    "front": "What was the purpose of your statement? ¿",
+    "back": "Cual fue el propósito de su declaración?"
+  },
+  {
+    "front": "He gave me a push in the back",
+    "back": "El me dio un empujón en la espalda"
+  },
+  {
+    "front": "I will put my money in the bank",
+    "back": "Yo pondré mi dinero en el banco"
+  },
+  {
+    "front": "What is the quality of this cloth? ¿",
+    "back": "Cual es la calidad de esta tela?"
+  },
+  {
+    "front": "This is a simple question, for boys",
+    "back": "Esta es una pregunta simple, para niños"
+  },
+  { "front": "He gave a quick answer", "back": "El dio una respuesta rápida" },
+  { "front": "This boy is very quiet", "back": "Este niño es muy tranquilo" },
+  {
+    "front": "I am quite well this morning",
+    "back": "Yo estoy completamente bien esta mañana"
+  },
+  {
+    "front": "This rail is made in iron",
+    "back": "Este riel está hecho de hierro"
+  },
+  { "front": "We had rain yesterday", "back": "Nosotros tuvimos lluvia ayer" },
+  {
+    "front": "Chile has a long range of mountains",
+    "back": "Chile tiene una larga cadena de montañas"
+  },
+  {
+    "front": "I have seen a rat in my room",
+    "back": "Yo he visto un ratón en mi habitación"
+  },
+  {
+    "front": "The train went at a great rate",
+    "back": "El tren iba a una gran velocidad"
+  },
+  {
+    "front": "We saw a ray of light in the window",
+    "back": "Nosotros vimos un rayo de luz en la ventana"
+  },
+  {
+    "front": "What was his reaction when you said that? ¿",
+    "back": "Cual fue su reacción cuando Ud. dijo eso?"
+  },
+  {
+    "front": "I am reading a good story",
+    "back": "Yo estoy leyendo un buen cuento"
+  },
+  { "front": "Are you ready or not? ¿", "back": "Está Ud. listo o no?" },
+  {
+    "front": "He had no reason to do that",
+    "back": "El no tuvo razón para hacer eso"
+  },
+  {
+    "front": "He gave me a receipt for my money",
+    "back": "El me dio un recibo por mi dinero"
+  },
+  { "front": "This is an", "back": "English record Este es un disco inglés" },
+  { "front": "She has a red hat", "back": "Ella tiene un sombrero rojo" },
+  {
+    "front": "I have no regret about that",
+    "back": "Yo no tengo remordimiento acerca de eso"
+  },
+  {
+    "front": "His heart has a regular rhythm",
+    "back": "Su corazón tiene un ritmo regular"
+  },
+  {
+    "front": "Have you any relations in",
+    "back": "Argentina? ¿ Tiene Ud. algunos parientes en Argentina?"
+  },
+  {
+    "front": "What is the religion of this country? ¿",
+    "back": "Cual es la religión de este país?"
+  },
+  {
+    "front": "He is a representative of my brother",
+    "back": "El es un representante de mi hermano"
+  },
+  {
+    "front": "I will make a request for more money",
+    "back": "Yo haré un pedido por más dinero"
+  },
+  {
+    "front": "I have great respect for him",
+    "back": "Yo tengo un gran respeto por él"
+  },
+  {
+    "front": "You are responsible for the fire",
+    "back": "Ud. es responsable por el incendio"
+  },
+  {
+    "front": "Take a rest after your meals",
+    "back": "Tome un descanso después de sus comidas"
+  },
+  {
+    "front": "He gave a reward to my brother",
+    "back": "El dio un premio a mi hermano"
+  },
+  {
+    "front": "There is no rhythm in this music",
+    "back": "No hay ritmo en esta música"
+  },
+  {
+    "front": "I have only rice for this meal",
+    "back": "Yo tengo solo arroz para esta comida"
+  },
+  {
+    "front": "You have no right to say that",
+    "back": "Ud. no tiene derecho a decir eso"
+  },
+  {
+    "front": "She has a ring on her finger",
+    "back": "Ella tiene un anillo en su dedo"
+  },
+  {
+    "front": "We will go to the river tomorrow",
+    "back": "Nosotros iremos al río mañana"
+  },
+  { "front": "This road is new", "back": "Este camino es nuevo" },
+  {
+    "front": "Those iron road are for the windows",
+    "back": "Estas varillas de hierro son para las ventanas"
+  },
+  {
+    "front": "He has a roll of paper in his hand",
+    "back": "El tiene un rollo de papel en su mano"
+  },
+  {
+    "front": "They are putting the roof on our house",
+    "back": "Ellos están poniendo el techo a nuestra casa"
+  },
+  {
+    "front": "There are eight rooms in this house",
+    "back": "Hay ocho habitaciones en esta casa"
+  },
+  {
+    "front": "These are the roots of that tree",
+    "back": "Estas son las raíces de ese árbol"
+  },
+  { "front": "He has rough hands", "back": "El tiene manos ásperas" },
+  {
+    "front": "I have a round table in my room",
+    "back": "Yo tengo una mesa redonda en mi habitación"
+  },
+  {
+    "front": "Give me a rub on the back",
+    "back": "Deme una fricción en la espalda"
+  },
+  {
+    "front": "That is against the rules of this hospital",
+    "back": "Eso es contra las reglas de este hospital"
+  },
+  {
+    "front": "A short run every day is healthy",
+    "back": "Una corta carrera cada día es saludable"
+  },
+  { "front": "He has a said face", "back": "El tiene una cara triste" },
+  {
+    "front": "We are in the safe place",
+    "back": "Nosotros estamos en un sitio seguro"
+  },
+  {
+    "front": "I saw the white sails of a ship",
+    "back": "Yo vi las velas blancas de un barco"
+  },
+  { "front": "There is no salt on the table", "back": "No hay sal en la mesa" },
+  {
+    "front": "We have the same idea",
+    "back": "Nosotros tenemos la misma idea"
+  },
+  {
+    "front": "I have sand in my shoes",
+    "back": "Yo tengo arena en mis zapatos"
+  },
+  { "front": "I will say that to my mother", "back": "Yo diré eso a mi madre" },
+  {
+    "front": "He has scale in his store",
+    "back": "El tiene una balanza en su negocio"
+  },
+  {
+    "front": "There is a good school in this town",
+    "back": "Hay un colegio bueno en esta ciudad"
+  },
+  {
+    "front": "We are learning science",
+    "back": "Nosotros estamos aprendiendo ciencia"
+  },
+  {
+    "front": "These new scissors are very sharp",
+    "back": "Esas tijeras nuevas están muy afiladas"
+  },
+  {
+    "front": "Those screws are for my brother",
+    "back": "Esos tornillos son para mi hermano"
+  },
+  {
+    "front": "The water of this sea is very blue",
+    "back": "El agua de este mar esa muy azul"
+  },
+  {
+    "front": "Give a seat for your sister",
+    "back": "Dé un asiento a su hermana"
+  },
+  { "front": "This is his second book", "back": "Ese es su segundo libro" },
+  { "front": "That is the secret", "back": "Ese es el secreto" },
+  {
+    "front": "He has a private secretary",
+    "back": "El tiene un secretario privado"
+  },
+  {
+    "front": "We will see the house tomorrow",
+    "back": "Nosotros veremos la casa mañana"
+  },
+  {
+    "front": "These seeds are for our garden",
+    "back": "Esas semillas son para nuestro jardín"
+  },
+  {
+    "front": "This boy seems to be ill",
+    "back": "Este niño parece estar enfermo"
+  },
+  {
+    "front": "He has a good selection of books",
+    "back": "El tiene una buena selección de libros"
+  },
+  {
+    "front": "I have great self control",
+    "back": "Yo tengo gran control propio"
+  },
+  {
+    "front": "I will send this letter to him",
+    "back": "Yo le enviaré esta carta"
+  },
+  {
+    "front": "This boy has no common sense",
+    "back": "Este niño no tiene sentido común"
+  },
+  {
+    "front": "They have separate rooms",
+    "back": "Ellos tienen habitaciones separadas"
+  },
+  {
+    "front": "You have made a serious error",
+    "back": "Ud. ha hecho un serio error"
+  },
+  {
+    "front": "I have a new servant in my house",
+    "back": "Yo tengo un nuevo sirviente en mi casa"
+  },
+  {
+    "front": "What is the sex of this animal? ¿",
+    "back": "Cual es el sexo de este animal?"
+  },
+  {
+    "front": "There is no shade in this garden",
+    "back": "No hay sombra en este jardín"
+  },
+  {
+    "front": "Give the bottle a shake",
+    "back": "Dé una sacudida a la botella"
+  },
+  { "front": "It is a shame to say that", "back": "Es una vergüenza oír eso" },
+  {
+    "front": "He has a sharp knife in his hand",
+    "back": "El tiene un cuchillo afilado en su mano"
+  },
+  {
+    "front": "He has twenty sheeps and two goats",
+    "back": "El tiene veinte ovejas y dos cabras"
+  },
+  {
+    "front": "I have made a new shelf for your books",
+    "back": "Yo he hecho un nuevo estante para sus libros"
+  },
+  {
+    "front": "This ship is from",
+    "back": "New York Este vapor es de Nueva York"
+  },
+  {
+    "front": "Your shirt is on your bed",
+    "back": "Su camisa está sobre su cama"
+  },
+  {
+    "front": "His death was a shock for me",
+    "back": "Su muerte fue un golpe para mí"
+  },
+  {
+    "front": "Your new shoes are very small",
+    "back": "Sus zapatos nuevos son muy chicos"
+  },
+  { "front": "This is a short story", "back": "Este es un cuento corto" },
+  { "front": "He has shut the door", "back": "El ha cerrado la puerta" },
+  {
+    "front": "He is on the other side of the river",
+    "back": "El está en el otro lado del río"
+  },
+  {
+    "front": "He made a sign with his hand",
+    "back": "El hizo una seña con su mano"
+  },
+  {
+    "front": "Ì have a new silk shirt",
+    "back": "Yo tengo una nueva camisa de seda"
+  },
+  {
+    "front": "Give me a silver watch, please",
+    "back": "Deme un reloj de plata, por favor"
+  },
+  {
+    "front": "He has a simple mind",
+    "back": "El tiene una inteligencia simple"
+  },
+  {
+    "front": "I have a sister in",
+    "back": "Buenos Aires Yo tengo una hermana en Buenos Aires"
+  },
+  {
+    "front": "What is the size of your farm? ¿",
+    "back": "Cual es el tamaño de su hacienda?"
+  },
+  {
+    "front": "She has white skin and blue eyes",
+    "back": "Ella tiene la piel blanca y los ojos azules"
+  },
+  {
+    "front": "I have sent my skirt to the wash",
+    "back": "Yo envié mi falda al lavado"
+  },
+  {
+    "front": "The sky is blue in spring",
+    "back": "El cielo es azul en primavera"
+  },
+  {
+    "front": "A deep sleep is healthy",
+    "back": "Un sueño profundo es saludable"
+  },
+  {
+    "front": "He had a slip on the ice",
+    "back": "El tuvo un resbalón en el hielo"
+  },
+  {
+    "front": "There is a slope in the road",
+    "back": "Hay un declive en el camino"
+  },
+  {
+    "front": "He is very slow of thought",
+    "back": "El es muy lento de pensamiento"
+  },
+  {
+    "front": "I have a small house in the country",
+    "back": "Yo tengo una casa pequeña en el campo"
+  },
+  {
+    "front": "He had a smash with that cart",
+    "back": "El tuvo un choque con ese carretón"
+  },
+  {
+    "front": "There is a strange smell in this room",
+    "back": "Hay un olor extraño en esta habitación"
+  },
+  {
+    "front": "She had a smile for me, yesterday",
+    "back": "Ella tuvo una sonrisa para mí, ayer"
+  },
+  {
+    "front": "There is smoke in the room",
+    "back": "Hay humo en la habitación"
+  },
+  { "front": "She has smooth hands", "back": "Ella tiene manos suaves" },
+  {
+    "front": "These sort of snakes are very longs",
+    "back": "Esa especie de serpientes son muy largas"
+  },
+  { "front": "The baby gave a sneeze", "back": "El nene dio un estornudo" },
+  { "front": "There is snow on those mountains", "back": "" },
+  { "front": "My father is not so strong now", "back": "" },
+  { "front": "Hay nieve en esas montañas", "back": "" },
+  { "front": "Mi padre no es tan fuerte ahora", "back": "" },
+  {
+    "front": "I have put soap in your room",
+    "back": "Yo he puesto jabón en su habitación"
+  },
+  {
+    "front": "Our society had a meeting yesterday",
+    "back": "Nuestra sociedad tuvo una reunión ayer"
+  },
+  {
+    "front": "He put his new socks in the drawer",
+    "back": "El puso sus calcetines nuevos en el cajón"
+  },
+  {
+    "front": "Give me a soft cushion for my seat",
+    "back": "Deme un cojín blando para mi asiento"
+  },
+  {
+    "front": "He made a solid wall around his house",
+    "back": "El hizo una sólida pared alrededor de su casa"
+  },
+  {
+    "front": "Here.",
+    "back": "I have some goods books Aquí, yo tengo algunos libros buenos"
+  },
+  {
+    "front": "That is the song of a bird",
+    "back": "Ese es el canto de un pájaro"
+  },
+  {
+    "front": "What sort of sheep are these? ¿",
+    "back": "Que especie de ovejas son esas?"
+  },
+  {
+    "front": "There was no sound in the wood",
+    "back": "No había ruido en el bosque"
+  },
+  {
+    "front": "Put the soup on the table",
+    "back": "Ponga la sopa sobre la mesa"
+  },
+  { "front": "Chile is at south of", "back": "Peru Chile está al sur de Perú" },
+  {
+    "front": "Is there enough space for my seat? ¿",
+    "back": "Hay bastante espacio para mi asiento?"
+  },
+  {
+    "front": "Have you a spade for the garden? ¿",
+    "back": "Tiene Ud. una pala para el jardín?"
+  },
+  {
+    "front": "We will go by special train to",
+    "back": "Havana Nosotros iremos por tren especial a La Habana"
+  },
+  {
+    "front": "There is no sponge in this bath",
+    "back": "No hay esponja en este baño"
+  },
+  {
+    "front": "Here is the spoon for your soup",
+    "back": "Aquí está la cuchara para su sopa"
+  },
+  {
+    "front": "In this country the spring is very beautiful",
+    "back": "En este país la primavera es muy hermosa"
+  },
+  {
+    "front": "There is a square table in my room",
+    "back": "Hay una mesa cuadrada en mi habitación"
+  },
+  {
+    "front": "This is a last stage of our work",
+    "back": "Esta es la última etapa de nuestro trabajo"
+  },
+  {
+    "front": "Give me a stamp for this letter",
+    "back": "Deme un sello para esta carta"
+  },
+  { "front": "There are star in the sky", "back": "Hay estrellas en el cielo" },
+  {
+    "front": "This is the start of the competition",
+    "back": "Este es el comienzo de la competencia"
+  },
+  {
+    "front": "Make a statement to the judge",
+    "back": "Haga una exposición al juez"
+  },
+  {
+    "front": "Come to the station with me",
+    "back": "Venga a la estación conmigo"
+  },
+  {
+    "front": "There is thick steam in the air",
+    "back": "Hay un vapor espeso en el aire"
+  },
+  {
+    "front": "I have the steel for the rails",
+    "back": "Yo tengo el acero para los rieles"
+  },
+  { "front": "Put this stem in water", "back": "Ponga ese tallo en agua" },
+  {
+    "front": "He gave a step in that direction",
+    "back": "El dio un paso en esa dirección"
+  },
+  {
+    "front": "My father had a stick in his hand",
+    "back": "Mi padre tenía un bastón en su mano"
+  },
+  { "front": "This liquid is sticky", "back": "Este líquido está pegajoso" },
+  { "front": "My muscles are stiff", "back": "Mis músculos están tiesos" },
+  {
+    "front": "My brother is still ill in bed",
+    "back": "Mi hermano está todavía enfermo en cama"
+  },
+  {
+    "front": "Give a stitch to this button",
+    "back": "Dé una puntada a este botón"
+  },
+  {
+    "front": "These stockings are made on silk",
+    "back": "Estas medias están hechas de seda"
+  },
+  {
+    "front": "I had a delicate stomach when young",
+    "back": "Yo tuve un estómago delicado cuando joven"
+  },
+  {
+    "front": "The boy has a stone in this hand",
+    "back": "El niño tiene una piedra en esa mano"
+  },
+  {
+    "front": "Go to the store and get me bread",
+    "back": "Vaya al almacén y consígame pan"
+  },
+  {
+    "front": "This is a story of the great war",
+    "back": "Este es un cuento de la gran guerra"
+  },
+  {
+    "front": "We will go straight to his house",
+    "back": "Nosotros iremos directamente a su casa"
+  },
+  { "front": "That is a strange story", "back": "Ese es un cuento extraño" },
+  {
+    "front": "In this street the houses are very olds",
+    "back": "En esta calle las casas son muy viejas"
+  },
+  {
+    "front": "I have a wide stretch of land",
+    "back": "Yo tengo una ancha extensión de terreno"
+  },
+  {
+    "front": "He is very strong and very healthy",
+    "back": "El es muy fuerte y muy saludable"
+  },
+  {
+    "front": "I made this structure with bricks",
+    "back": "Yo hice esa construcción con ladrillos"
+  },
+  {
+    "front": "This is a sticky substance",
+    "back": "Esa es una sustancia pegajosa"
+  },
+  {
+    "front": "I had no such thoughts",
+    "back": "Yo no tuve tales pensamientos"
+  },
+  { "front": "I had a sudden idea", "back": "Yo tuve una repentina idea" },
+  {
+    "front": "Give me two bits of sugar, please",
+    "back": "Deme dos pedazos de azúcar, por favor"
+  },
+  {
+    "front": "Your suggestions are very goods",
+    "back": "Sus sugerencias son muy buenas"
+  },
+  {
+    "front": "This summer we will go to",
+    "back": "Lima Este verano iremos a Lima"
+  },
+  {
+    "front": "There is a bright sun this morning",
+    "back": "Hay un sol brillante esta mañana"
+  },
+  {
+    "front": "He gave his support to the business",
+    "back": "El dio su apoyo al negocio"
+  },
+  {
+    "front": "She gave me a surprise this morning",
+    "back": "Ella me dio una sorpresa esta mañana"
+  },
+  {
+    "front": "I gave some candy to your boy",
+    "back": "Yo di algunos dulces a su niño"
+  },
+  {
+    "front": "We will take a swim",
+    "back": "Nosotros tomaremos un baño (de natación)"
+  },
+  {
+    "front": "What is your new system of work? ¿",
+    "back": "Cual es su nuevo sistema de trabajo?"
+  },
+  {
+    "front": "There are no tables in the room",
+    "back": "No hay mesas en la habitación"
+  },
+  {
+    "front": "This hair is from the tail of my horse",
+    "back": "Este pelo es de la cola de mi caballo"
+  },
+  {
+    "front": "I will take a glass of milk",
+    "back": "Yo tomaré un vaso de leche"
+  },
+  {
+    "front": "I had a talk with your friend",
+    "back": "Yo tuve una conversación con su amigo"
+  },
+  {
+    "front": "My brother is a tall man",
+    "back": "Mi hermano es un hombre alto"
+  },
+  {
+    "front": "I have a bad taste in my mouth",
+    "back": "Yo tengo un mal sabor en mi boca"
+  },
+  {
+    "front": "There is a small tax on this wine",
+    "back": "Hay un pequeño impuesto sobre este vino"
+  },
+  { "front": "He is teaching", "back": "English El está enseñando Inglés" },
+  {
+    "front": "What is the political tendency this year? ¿",
+    "back": "Cual es la tendencia política este año?"
+  },
+  {
+    "front": "This will be a test for your brain",
+    "back": "Esta será una prueba para su cerebro"
+  },
+  {
+    "front": "She is more beautiful than my sister",
+    "back": "Ella es más hermosa que mi hermana"
+  },
+  {
+    "front": "I gave your book to that man",
+    "back": "Yo di su libro a ese hombre"
+  },
+  { "front": "Here is the book", "back": "Aquí está el libro" },
+  {
+    "front": "Do your work and then go to your house",
+    "back": "Haga su trabajo y después vaya a su casa"
+  },
+  {
+    "front": "I have a new theory about that",
+    "back": "Yo tengo una nueva teoría acerca de eso"
+  },
+  { "front": "We will go there by train", "back": "Iremos allá por tren" },
+  {
+    "front": "I have a thick coat for the winter",
+    "back": "Yo tengo una chaqueta gruesa para el invierno"
+  },
+  { "front": "She has thin fingers", "back": "Ella tiene dedos delgados" },
+  {
+    "front": "Put that thin on the table",
+    "back": "Ponga esa cosa sobre la mesa"
+  },
+  {
+    "front": "I will send this letter to",
+    "back": "Panama Yo enviaré esta carta a Panamá"
+  },
+  {
+    "front": "He is in bed thought he is not ill",
+    "back": "El está en cama aunque no está enfermo"
+  },
+  {
+    "front": "All is thoughts are in his work",
+    "back": "Todos sus pensamientos están en su trabajo"
+  },
+  {
+    "front": "Here is the thread for your dress",
+    "back": "Aquí está el hilo para su traje"
+  },
+  {
+    "front": "I have a pain in my throat",
+    "back": "Yo tengo un dolor en mi garganta"
+  },
+  {
+    "front": "He made a hole through the wall",
+    "back": "El hizo un agujero a través de la muralla"
+  },
+  {
+    "front": "He put his thumb in his mouth",
+    "back": "El puso su pulgar en su boca"
+  },
+  { "front": "We had thunders yesterday", "back": "Tuvimos truenos ayer" },
+  { "front": "Give me a ticket to", "back": "Iran Deme un boleto para Irán" },
+  {
+    "front": "This collar is very tight",
+    "back": "Este cuello está muy apretado"
+  },
+  {
+    "front": "I will be here till tomorrow",
+    "back": "Yo estaré aquí hasta mañana"
+  },
+  {
+    "front": "Now,",
+    "back": "I have time for this work Ahora, tengo tiempo para este trabajo"
+  },
+  { "front": "This is a tin mine", "back": "Esta es una mina de estaño" },
+  {
+    "front": "I am very tired this morning",
+    "back": "Estoy muy cansado esta mañana"
+  },
+  {
+    "front": "I will go to",
+    "back": "Santiago tomorrow Iré a Santiago mañana"
+  },
+  {
+    "front": "We have toes on our feet",
+    "back": "Tenemos dedos en nuestros pies"
+  },
+  { "front": "We were together yesterday", "back": "Estuvimos juntos ayer" },
+  {
+    "front": "He will come tomorrow with his mother",
+    "back": "El vendrá mañana con su madre"
+  },
+  {
+    "front": "You are ill.",
+    "back": "Your tongue is very white Ud. está enfermo, su lengua está muy blanca"
+  },
+  { "front": "I have a broken tooth", "back": "Tengo un diente roto" },
+  {
+    "front": "We are on the top of the mountain",
+    "back": "Estamos en la cima de la montaña"
+  },
+  {
+    "front": "To the touch this seems silk",
+    "back": "Al tacto esto parece seda"
+  },
+  {
+    "front": "There is a town near this river",
+    "back": "Hay una ciudad cerca de este río"
+  },
+  {
+    "front": "There is no trade in this town",
+    "back": "No hay comercio en esta ciudad"
+  },
+  {
+    "front": "Our train was in the station",
+    "back": "Nuestro tren estaba en la estación"
+  },
+  {
+    "front": "This ship is a transport of the army",
+    "back": "Este buque es un transporte del ejército"
+  },
+  {
+    "front": "Put the tray on the table",
+    "back": "Ponga la bandeja sobre la mesa"
+  },
+  {
+    "front": "He has beautiful trees in his garden",
+    "back": "El tiene hermosos árboles en su jardín"
+  },
+  { "front": "This is a trick", "back": "Esto es un engaño" },
+  {
+    "front": "I have had trouble all the year",
+    "back": "Yo he tenido dificultades todo el año"
+  },
+  {
+    "front": "Your new trousers are very small",
+    "back": "Sus pantalones nuevos son muy chicos"
+  },
+  { "front": "He is a true friend", "back": "El es un amigo verdadero" },
+  {
+    "front": "Give a turn to the left",
+    "back": "Dé una vuelta a la izquierda"
+  },
+  {
+    "front": "This rod has a twist in the middle",
+    "back": "Esta varilla tiene una torcedura en el medio"
+  },
+  {
+    "front": "I have a new umbrella this winter",
+    "back": "Tengo una sombrilla nueva este invierno"
+  },
+  {
+    "front": "Your shoes are under the bed",
+    "back": "Sus zapatos están debajo de la cama"
+  },
+  {
+    "front": "This is a unit of the army",
+    "back": "Esta es una unidad del ejército"
+  },
+  {
+    "front": "I will go up in the lift",
+    "back": "Yo iré arriba en el ascensor"
+  },
+  {
+    "front": "What is the use of this invention? ¿",
+    "back": "Cual es el uso de este invento?"
+  },
+  {
+    "front": "What is the value of this picture? ¿",
+    "back": "Cual es el valor de este cuadro?"
+  },
+  {
+    "front": "This book of verses is very old",
+    "back": "Este libro de versos es muy viejo"
+  },
+  { "front": "He is very strong", "back": "El es muy fuerte" },
+  {
+    "front": "There are six vessels in the harbour",
+    "back": "Hay seis buques en la bahía"
+  },
+  {
+    "front": "I have a beautiful view from my window",
+    "back": "Tengo una preciosa vista desde mi ventana"
+  },
+  {
+    "front": "There is a violent fight in the street",
+    "back": "Hay una lucha violenta en la calle"
+  },
+  {
+    "front": "That is the voice of my mother",
+    "back": "Esa es la voz de mi madre"
+  },
+  {
+    "front": "I have been waiting two hours",
+    "back": "He estado esperando dos horas"
+  },
+  {
+    "front": "There is a wall around the garden",
+    "back": "Hay una pared alrededor del jardín"
+  },
+  {
+    "front": "A long walk is good for you",
+    "back": "Un paseo largo es bueno para Ud."
+  },
+  {
+    "front": "He was in the war in",
+    "back": "Europe El estuvo en la guerra en Europa"
+  },
+  {
+    "front": "Give me warm water, please",
+    "back": "Deme agua caliente, por favor"
+  },
+  {
+    "front": "Send this to the wash tomorrow",
+    "back": "Envíe esto al lavado mañana"
+  },
+  {
+    "front": "This is a waste of time",
+    "back": "Esto es una pérdida de tiempo"
+  },
+  {
+    "front": "He has a gold watch in his pocket",
+    "back": "El tiene un reloj de oro en su bolsillo"
+  },
+  {
+    "front": "Give me a glass of water, please",
+    "back": "Deme un vaso de agua, por favor"
+  },
+  {
+    "front": "The wind is making waves in the river",
+    "back": "El viento está haciendo olas en el río"
+  },
+  {
+    "front": "Give me a box of wax, please",
+    "back": "Deme una caja de cera, por favor"
+  },
+  {
+    "front": "This is the way to",
+    "back": "Santiago Este es el camino a Santiago"
+  },
+  {
+    "front": "We had good weather all the month",
+    "back": "Estuvimos buen tiempo todo el mes (de clima)"
+  },
+  {
+    "front": "He was a week in",
+    "back": "Buenos Aires Estuvo una semana en Buenos Aires"
+  },
+  {
+    "front": "What is the weight of your boy? ¿",
+    "back": "Cual es el peso de su niño?"
+  },
+  { "front": "Very well, we will go", "back": "Muy bien, nosotros iremos" },
+  {
+    "front": "He came from the west of",
+    "back": "Brazil El vino desde el oeste de Brasil"
+  },
+  {
+    "front": "My coat is wet with the rain",
+    "back": "Mi chaqueta está mojada con la lluvia"
+  },
+  {
+    "front": "This machine has six wheels",
+    "back": "Esta máquina tiene seis ruedas"
+  },
+  {
+    "front": "I will go when ,",
+    "back": "I have time Iré cuando tenga tiempo"
+  },
+  {
+    "front": "He said: where is my horse",
+    "back": "El dijo: donde está mi caballo"
+  },
+  {
+    "front": "You may come while my son is working",
+    "back": "Ud. puede venir mientras mi hijo está trabajando"
+  },
+  {
+    "front": "He has a whip in his hand",
+    "back": "El tenía un látigo en su mano"
+  },
+  { "front": "He gave a whistle", "back": "El dio un silbido" },
+  {
+    "front": "There are white clouds in the sky",
+    "back": "Hay nubes blancas en el cielo"
+  },
+  { "front": "Who is that man? ¿", "back": "Quien es ese hombre?" },
+  { "front": "Why are you so late? ¿", "back": "Por qué estás tan atrasado?" },
+  {
+    "front": "This is a wide street, but very dirty",
+    "back": "Esta es una calle ancha, pero muy sucia"
+  },
+  {
+    "front": "My brother will go to",
+    "back": "Colombia Mi hermano irá a Colombia"
+  },
+  {
+    "front": "There was a strong wind this morning",
+    "back": "Hay un fuerte viento esta mañana"
+  },
+  {
+    "front": "There are two window in my room",
+    "back": "Hay dos ventanas en mi habitación"
+  },
+  {
+    "front": "Put the white wine on the table",
+    "back": "Ponga el vino blanco sobre la mesa"
+  },
+  {
+    "front": "This birds has long wines and short tail",
+    "back": "Ese pájaro tiene alas largas y cola corta"
+  },
+  {
+    "front": "This winter",
+    "back": "I will go to Bolivia Este invierno iré a Bolivia"
+  },
+  {
+    "front": "He said that the wire was broken",
+    "back": "El dijo que el alambre estaba roto"
+  },
+  { "front": "He is a wise man", "back": "El es un hombre sabio" },
+  { "front": "I will go with you", "back": "Iré con Ud." },
+  { "front": "She is a beautiful woman", "back": "Ella es una mujer hermosa" },
+  {
+    "front": "Get me wood for the fire",
+    "back": "Consígame madera para el fuego"
+  },
+  {
+    "front": "This sort of wool comes from",
+    "back": "Argentina Esta especie de lana viene de Argentina"
+  },
+  {
+    "front": "All these words are basic",
+    "back": "Todas esas palabras son básicas"
+  },
+  {
+    "front": "I will to that work in the morning",
+    "back": "Haré ese trabajo en la mañana"
+  },
+  {
+    "front": "There are worm in this earth",
+    "back": "Hay gusanos en esta tierra"
+  },
+  {
+    "front": "He has a wound in the leg",
+    "back": "El tiene una herida en la pierna"
+  },
+  { "front": "I am writing a letter", "back": "Estoy escribiendo una carta" },
+  { "front": "She has a wrong ideas", "back": "Ella tiene ideas equivocadas" },
+  {
+    "front": "This is a good year for our business",
+    "back": "Este es un buen año para nuestros negocios"
+  },
+  {
+    "front": "She has a yellow dress",
+    "back": "Ella tiene un vestido amarillo"
+  },
+  {
+    "front": "What is your answer, yes or not? ¿",
+    "back": "Cual es su respuesta, si o no?"
+  },
+  {
+    "front": "We went to",
+    "back": "Santiago yesterday Fuimos a Santiago ayer"
+  },
+  { "front": "I will go with you to", "back": "Lima Iré con Ud. a Lima" }
+]
